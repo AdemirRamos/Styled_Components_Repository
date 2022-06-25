@@ -1,3 +1,3 @@
 # Styled_Components_Repository
 
-Exercícios comentados sobre "Styled Components".
+Um pequeno exercício (comentado) sobre "Styled Components" produzido pela Rocketseat.
